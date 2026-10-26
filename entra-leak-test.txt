@@ -1,0 +1,4 @@
+"AadClientId": "d598ba8d-c6c9-4132-ab6a-352d2effb920",
+"AadSecret": "amM8Q~pIa778xIL7rR0Ti8tDU_qNHyRj.5fCbap_",
+"AadTenantDomain": "tfunatani.net",
+"AadTenantId": "9962b914-bbfd-45c0-be4a-fc3c9a573a35",
